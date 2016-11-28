@@ -1,0 +1,6 @@
+{
+  "name": "Lodworkshop-project",
+  "tagline": "swib16",
+  "body": "# Beschreibung fette Überschrift\r\n## Unterüberschrift\r\n \r\nThe locations.csv file maps location names to geo coordinates formatted as \"latitude,longitute\".\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
